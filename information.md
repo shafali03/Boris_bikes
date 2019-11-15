@@ -30,11 +30,3 @@ Good Bike  | check_if_working
 ### Broken bike => In Use Bike =>Functional Bike => Docked Bike => Bike
 ### Stocked Bike Rack => Empty DockingStation => DockingStation 
 
-## error
-
-uninitialized constant
-docking_station.rb
-line - 1
-Uninitialized 
-Uninitialized Constant is a NameError that refers to a class or module
-we could create a new class for "DockingStation"
